@@ -1,0 +1,9 @@
+Kyrsova:
+dot.net+
+wpf, winforms,wcf+
+bd(mysql, mssql, server)+\-
+attitifram.(FF)-
+Diagrama class.(UML class diagram)+
+GIT.+
+Pater proekt.+
+
